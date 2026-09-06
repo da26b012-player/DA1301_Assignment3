@@ -13,3 +13,6 @@
 
 # one command i liked the most
 - git clone https://github.com/owner/repo.git
+
+# what i learned
+- I am learning how Git and GitHub work together.
